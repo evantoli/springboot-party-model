@@ -11,9 +11,6 @@ import javax.persistence.Id;
 import java.io.Serializable;
 import java.time.Instant;
 
-/**
- * The Abstarct of all Business Object, Internal, in the CW system
- */
 public abstract class AbstractModel<ID extends Serializable> implements Model<ID> {
 
     @Id
