@@ -1,9 +1,12 @@
-# Springboot Starter
+# Springboot Party Model
 
-This is a standalone SpringBoot application that I use as a minimal starting 
- point for lot's of experimentation.
+This is a standalone SpringBoot application that I am using to experiment with the party model.
 
-I have configured it to be ready to use.
+It does not yet build and I have not mapped the model objects (entities) to either a relational or object database.
+ 
+I am presently getting the model to make some sense.
+
+The rest of this documentation is just generic Springboot related stuff at this point in time.
 
 # Main application entry point
 
